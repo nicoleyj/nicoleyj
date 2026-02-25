@@ -1,28 +1,22 @@
-<!--- ![github-header-image](https://github.com/nicoleyry/nicoleyry/assets/40715205/c221045d-b906-4d40-b149-29e27dd1248a) --->
+<!--- ![github-header-image](https://github.com/nicoleyj/nicoleyj/assets/40715205/c221045d-b906-4d40-b149-29e27dd1248a) --->
 
 <h1 align="center">⭐<br>Hi 👋,<br>I'm Nicole</h1>
 
 <p align="center">:computer: A Frontend Developer from Taiwan :computer:</p>
 <p align="center">:book: I’m currently learning <strong>React.js</strong> and <strong>Three.js</strong> :book:</p>
-<p align="center">:hammer_and_wrench: Also working on completing challenges on <a href="https://www.frontendmentor.io/" target="blank">Frontend Mentor</a> :hammer_and_wrench:</p>
+<p align="center">:hammer_and_wrench: Sometimes working on completing challenges on <a href="https://www.frontendmentor.io/" target="blank">Frontend Mentor</a> :hammer_and_wrench:</p>
 <p align="center">:zap: I'm passionate about languages, including but not limited to programming languages :wink::zap:</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-	<a href="https://codepen.io/nicoleyry" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codeepen @nicoleyry" height="30" width="40" />
+	<a href="https://dev.to/nicoleyj" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to @nicoleyj" height="30" width="40" />
 	</a>
-	<a href="https://dev.to/nicoleyry" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to @nicoleyry" height="30" width="40" />
-	</a>
-	<a href="https://stackoverflow.com/users/10036448" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverlow @nicoleyry" height="30" width="40" />
-	</a>
-	<a href="https://twitter.com/nicoleyry" target="blank">
-	    	<img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X @nicoleyry" height="30" width="40" />
+	<a href="https://twitter.com/nicoleyj" target="blank">
+	    	<img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X @nicoleyj" height="30" width="40" />
     	</a>
-	<a href="https://linkedin.com/in/nicoleyry" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn @nicoleyry" height="30" width="40" />
+	<a href="https://linkedin.com/in/nicoleyj" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn @nicoleyj" height="30" width="40" />
 	</a>
 </p>
 
@@ -56,9 +50,9 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 	</a>
-	<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+	<!-- <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/StaticSiteGenerators/nuxtjs.svg" alt="nuxtjs" width="40" height="40"/>
-	</a>
+	</a> -->
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 	</a>
@@ -71,11 +65,6 @@
 	<a href="https://threejs.org" target="_blank" rel="noreferrer">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="threejs" width="40" height="40"/>
 	</a>
-</p>
-<br />
-
-<p align="center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoleyry&show_icons=true&theme=onedark&locale=en&layout=compact" alt="nicoleyry" />
 </p>
 <br />
 
