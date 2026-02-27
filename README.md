@@ -1,6 +1,6 @@
 <!--- ![github-header-image](https://github.com/nicoleyj/nicoleyj/assets/40715205/c221045d-b906-4d40-b149-29e27dd1248a) --->
 
-<h1 align="center">⭐<br>Hi 👋,<br>I'm Nicole</h1>
+<h1 align="center">⭐<br>Hi 👋,<br>I'm <a href="https://nicoleyj.dev/" target="blank">Nicole</a></h1>
 
 <p align="center">:computer: A Frontend Developer from Taiwan :computer:</p>
 <p align="center">:book: I’m currently learning <strong>React.js</strong> and <strong>Three.js</strong> :book:</p>
@@ -12,7 +12,7 @@
 	<a href="https://dev.to/nicoleyj" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to @nicoleyj" height="30" width="40" />
 	</a>
-	<a href="https://twitter.com/nicoleyj" target="blank">
+	<a href="https://x.com/NicoleYJYang" target="blank">
 	    	<img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X @nicoleyj" height="30" width="40" />
     	</a>
 	<a href="https://linkedin.com/in/nicoleyj" target="blank">
