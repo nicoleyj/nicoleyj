@@ -10,13 +10,13 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 	<a href="https://dev.to/nicoleyj" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to @nicoleyj" height="30" width="40" />
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to @nicoleyj" height="30" width="40" />
 	</a>
 	<a href="https://x.com/NicoleYJYang" target="blank">
-	    	<img align="center" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X @nicoleyj" height="30" width="40" />
+	    	<img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X @nicoleyj" height="30" width="40" />
     	</a>
 	<a href="https://linkedin.com/in/nicoleyj" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn @nicoleyj" height="30" width="40" />
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn @nicoleyj" height="30" width="40" />
 	</a>
 </p>
 
